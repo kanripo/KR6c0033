@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:42.831558
+#+DATE: 2015-08-30 19:44:44.650282
 #+TITLE: 金剛仙論
 #+PROPERTY: CBETA_ID T25n1512
 #+PROPERTY: ID KR6c0033
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1512
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHI
 #+PROPERTY: LASTPB <pb:KR6c0033_T_002-0804b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《金剛仙論》卷第二¶
+《金剛仙論》卷第二¶
 ¶
 
 世尊云何菩薩於大乘中發阿耨菩提心乃至¶

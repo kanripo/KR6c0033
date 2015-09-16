@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:43.053202
+#+DATE: 2015-08-30 19:44:44.852049
 #+TITLE: 金剛仙論
 #+PROPERTY: CBETA_ID T25n1512
 #+PROPERTY: ID KR6c0033
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1512
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHI
 #+PROPERTY: LASTPB <pb:KR6c0033_T_008-0852a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《金剛仙論》卷第八¶
+《金剛仙論》卷第八¶
 ¶
 
 須菩提。於意云何。如來有肉眼不等。此是斷¶
@@ -131,7 +130,7 @@
 多不。此欲明如來非但知一三千世界中恒¶
 沙眾生心心數法也。乃遍知十方世界中無¶
 量恒河沙眾生心數法也。須菩提言彼世界¶
-甚多世尊者。明須菩提仰答。如來如上所說¶
+甚多世尊者。明須菩提作答。如來如上所說¶
 十方恒沙世界實多無量也。¶
 
 佛告須菩提。爾許世界中眾生。若干種心住¶
