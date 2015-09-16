@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:42.901904
+#+DATE: 2015-08-30 19:44:43.512201
 #+TITLE: 金剛仙論
 #+PROPERTY: CBETA_ID T25n1512
 #+PROPERTY: ID KR6c0033
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1512
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0033_T_004-0820b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《金剛仙論》卷第四¶
+《金剛仙論》卷第四¶
 ¶
 
 須菩提於意云何若滿三千七寶布施以下。¶
@@ -437,7 +436,7 @@
 既。無一定法可證為果。亦無證法兆狀可¶
 說示人故。言不可取及說也。何以故然下第¶
 二句云自果不取故也。此亦應言四果是可¶
-說。但為成上不可取說義故。𨷂不論也。依¶
+說。但為成上不可取說義故。[門@報]不論也。依¶
 彼善吉者。正[番*及]須菩提名。說離二種障者。
 <pb:KR6c0033_T_004-0825a>¶
 明須菩提得無諍三昧及離欲空行故離二障¶

@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:43.081802
+#+DATE: 2015-08-30 19:44:43.666560
 #+TITLE: 金剛仙論
 #+PROPERTY: CBETA_ID T25n1512
 #+PROPERTY: ID KR6c0033
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1512
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0033_T_009-0860a> ¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
 ¶
-
- 《金剛仙論》卷第九¶
+《金剛仙論》卷第九¶
 ¶
 魏天平二年菩提流支三藏於洛陽譯¶
 
@@ -603,7 +602,7 @@
 <pb:KR6c0033_T_009-0866b>¶
 量。明得無生忍時不失因果不斷滅也。如經¶
 何以至不說斷滅相。舉經來結。然此經文。¶
-前憣經漏𨷂。依此論引來。明知應有也。¶
+前憣經漏[門@報]。依此論引來。明知應有也。¶
 
 若復有菩薩。知一切法無我。得無生法忍者。¶
 將釋此經故提來也。有二種無我。不生二種¶

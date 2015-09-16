@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:43.053202
+#+DATE: 2015-08-30 19:44:43.633208
 #+TITLE: 金剛仙論
 #+PROPERTY: CBETA_ID T25n1512
 #+PROPERTY: ID KR6c0033
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1512
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0033_T_008-0852a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《金剛仙論》卷第八¶
+《金剛仙論》卷第八¶
 ¶
 
 須菩提。於意云何。如來有肉眼不等。此是斷¶
